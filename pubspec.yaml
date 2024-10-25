@@ -65,6 +65,7 @@ dependencies:
 
   # for network request
   http: ^1.2.0
+  json_annotation: ^4.9.0
 
 dev_dependencies:
   flutter_test:
